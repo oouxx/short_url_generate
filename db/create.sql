@@ -1,0 +1,1 @@
+create database short_url_generation;
